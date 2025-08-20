@@ -1,5 +1,3 @@
-# PRODIGY_ML_01
-
 # House Price Prediction using Linear Regression
 
 This project uses a simple **Linear Regression** model to predict house sale prices based on a few key features such as living area, number of bedrooms, and number of bathrooms. It provides basic data preprocessing, model training, evaluation, and visualization.
